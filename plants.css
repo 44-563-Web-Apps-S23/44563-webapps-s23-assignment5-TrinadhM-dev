@@ -1,0 +1,37 @@
+.btn,.btn-success {
+    padding: 0px;
+    margin: 0px;
+    display: inherit;
+    margin-right: 0 5px 0 5px;
+}
+.btn,.btn-warning {
+    margin-right: 0 5px 0 5px;
+    text-decoration: none;
+}
+
+.btn,.btn-danger {
+    margin-left: 0 5px 0 5px;
+}
+.redirect{
+    color: white;
+    text-decoration: none;
+}
+.nav-link{
+    color: brown;
+}
+.card{
+    float: left;
+}
+  
+  tr:hover {background-color: coral;} */
+  tbody tr:hover {
+    background-color: yellow;
+  }
+  table, th, td {
+    border-collapse: collapse;
+    padding: 10px;
+  }
+
+ table{
+    background-color: black;
+  }
